@@ -47,7 +47,7 @@ The IRB should ensure that procedures used in the proposed research are consiste
 - Criteria: Adequate Provision is Made to Protect Participants' Privacy and Maintain the Confidentiality of Data
 - Criteria: Additional Safeguards are Included for Vulnerable Populations
 
-## Expedited Review
+## 6. Expedited Review
 
 -An IRB may use an expedited review procedure for research that:
 
@@ -64,18 +64,18 @@ Voice recordings made for research purposes, such as investigations of speech de
 Moderate exercise by healthy volunteers.
 Study of existing data, documents, records, pathological specimens, or diagnostic specimens.
 
-## Investigators' Responsibilities to the IRB
+## 7. Investigators' Responsibilities to the IRB
 
 - Ensure that the IRB receives all the documents it requires to review the proposed research.
 - Admit no participant to a study before the IRB has issued its written approval of the study.
 - Make no changes to or deviations from the study protocol without prior written approval from the IRB, except when necessary to eliminate immediate hazards to participants.
 
-- ## IRBs and Multi-Site Research
+ ## 8. IRBs and Multi-Site Research
 
 - Multi-site trials funded by NIH are characterized by the involvement of multiple institutions and study sites engaged in a single research study
 - When a research study involves more than one institution, each institution is responsible for safeguarding the rights and well-being of research participants at that institution.
 
-- ## Summary of Key Points
+ ## 9. Summary of Key Points
 
 - The purpose of an Institutional Review Board (IRB) is to safeguard the rights, safety, and well-being of all human research participants.
 - Any federally funded research involving human participants must be reviewed and approved by an IRB.
