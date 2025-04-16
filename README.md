@@ -1,2 +1,0 @@
-# ICH-GCP
-ICH-GCP
